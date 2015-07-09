@@ -1,7 +1,7 @@
 {
-  "additionalFooterText": "All content and images &copy; by Your Name Goes Here&nbsp;",
+  "additionalFooterText": "",
   "anchorCharacter": "#",
   "lineBreaks": "gfm",
-  "title": "Your wiki name",
+  "title": "DEDGui",
   "useSideMenu": true
 }
