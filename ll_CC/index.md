@@ -1,13 +1,23 @@
-# It works! ;-)
+#DEDGui
+The Admin client is a special client for the DEDServer that allows special access to server administrators. The client is actively being developed so expect updates! 
+For more information or to download the admin client view [this thread](http://cocdevteam.com/forum/showthread.php?tid=413). 
 
+##How to Run
+To Install DEDGui just download the latest version from the downloads folder and place the DEDGui.jar file in the /plugins folder of the DEDServer release. Once you have placed it in there you can double click it to open the admin client interface!
 
-## Section 1
+## Features
 
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras mattis consectetur purus sit amet fermentum. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Sed posuere consectetur est at lobortis.
+The partial list of features of the Admin Client include (but is not limited to):
 
-
-## Section 2
-
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec ullamcorper nulla non metus auctor fringilla. Cras mattis consectetur purus sit amet fermentum. Donec ullamcorper nulla non metus auctor fringilla. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
-
-Vestibulum id ligula porta felis euismod semper. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
+  * [Manage server resource usage and configuration](ManageServerConfig.MD)
+  * Manage players
+  * Edit player info
+  * Change Players buildings and defenses.
+  * Save or view image of base
+  * Player List
+  * Maintenance on/off
+  * Start/Stop/Stop server after X seconds
+  * Broadcast message to online users
+  * CSV Editor
+  
+The DEDGui Author is open to suggestions for future versions of the admin client. If you have a suggestion post a reply to [this thread](http://cocdevteam.com/forum/showthread.php?tid=413)
