@@ -8,6 +8,7 @@ Once you have placed it in there you can double click it to open the admin clien
 For help on how to use the admin client and what the features do press the links on the feature list below.
 
 
+
 ## Features
 
 The partial list of features of the Admin Client include (but is not limited to):
