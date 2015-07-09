@@ -1,8 +1,8 @@
 #Manage Server Configuration
 
-DEDGui allows server administrators to edit the servers starting resource values and configuration.
 
 ![](http://i.gyazo.com/6d8a4af314dd31a8811781c8af94b4ae.png)
+DEDGui allows server administrators to edit the servers starting resource values and configuration.
 The configuration options are rather self explantory.
 
 For the Save Method you have 3 options. h2, h2-server and none. 
