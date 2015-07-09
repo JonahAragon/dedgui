@@ -12,5 +12,6 @@ The partial list of features of the Admin Client include (but is not limited to)
   * Start/Stop/Stop server after X seconds
   * Broadcast message to online users
   * CSV Editor
+  * Database Table Viewer
   
 To learn more about each feature click on the link for it.
