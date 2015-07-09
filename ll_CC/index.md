@@ -3,7 +3,10 @@ The Admin client is a special client for the DEDServer that allows special acces
 For more information or to download the admin client view [this thread](http://cocdevteam.com/forum/showthread.php?tid=413). 
 
 ##How to Run
-To Install DEDGui just download the latest version from the downloads folder and place the DEDGui.jar file in the /plugins folder of the DEDServer release. Once you have placed it in there you can double click it to open the admin client interface!
+To Install DEDGui just download the latest version from the downloads folder and place the DEDGui.jar file in the /plugins folderof the DEDServer release. 
+Once you have placed it in there you can double click it to open the admin client interface!
+For help on how to use the admin client and what the features do press the links on the feature list below.
+
 
 ## Features
 
